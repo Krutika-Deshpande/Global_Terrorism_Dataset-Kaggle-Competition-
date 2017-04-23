@@ -2,7 +2,7 @@
 
 ## Global Terrorism Data Analysis
 
-# About the dataset
+# About the dataset:
 The dataset contains information about the terrorist attacks in the world.
 It has information of the day, month and year of the terrorist attack in a particular city in a state of a country under a region.
 The dataset has information of the type of weapons used, the target of the terrorist attacks, the terror groups involved in the
@@ -12,7 +12,7 @@ The dataset is for the year 1970 to 2015.
 
 ## Analysis 
 
-# 1st Analysis
+# 1st Analysis:
 
 First Analysis is about the number of people killed and injured based on the attack types in Iraq.
 A dataframe is created with data of countries and the attacks occured.
@@ -28,7 +28,7 @@ This analysis concludes the people killed and injured for the span of 1970-2015 
 ![alt tag](https://github.com/krutikad15/deshpande_krutika_001280718_FinalExam_Spring2017/blob/master/Final/Extras/1stAnalysis.PNG)
 
 
-# 2nd Analysis
+# 2nd Analysis:
 
 Second Analysis shows the terror attacks across the globe grouped in regions.
 Recently there has been an expontential increase in the terrorist attacks in the world which are majorly concentrated in the
@@ -41,7 +41,7 @@ It concludes the increase in terrorist attacks over the span of 1970 to 2015.
 ![alt tag](https://github.com/krutikad15/deshpande_krutika_001280718_FinalExam_Spring2017/blob/master/Final/Extras/2ndAnalysis.PNG)
 
 
-# 3rd Analysis
+# 3rd Analysis:
 
 Not all the attacks occured are successful and fail at times.
 Many goverment organizations, educational institutions, airports, NGOs, tourist places have been targeted lately for such attacks.
@@ -51,7 +51,7 @@ This analysis helps us understand the targeted audience and the success of attac
 
 ![alt tag](https://github.com/krutikad15/deshpande_krutika_001280718_FinalExam_Spring2017/blob/master/Final/Extras/3rdAnalysis.PNG)
 
-# 4th Analysis
+# 4th Analysis:
 
 Terrorist attacks majorly requires weapons to bring success to such events. Huge weapons, bombs and explosives are used on large scale.
 Weapons used fall under the weapon type in the dataset which was used to do this analysis.
@@ -62,7 +62,7 @@ sales and production of bombs and firearms is more compared to the other weapon 
 
 ![alt tag](https://github.com/krutikad15/deshpande_krutika_001280718_FinalExam_Spring2017/blob/master/Final/Extras/4thAnalysis.PNG)
 
-# 5th Analysis
+# 5th Analysis:
 
 Individuals do not perform  such violent acts. These acts are performed by organizations involved in the destruction of the society.
 Various organizations are involved in the terror attacks done oftenly.
