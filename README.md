@@ -70,7 +70,7 @@ This analysis shows the terror groups responsible for the attacks and the region
 It gives the top 10 terror groups and their terror attacks for a period of 1970 - 2015 in the world.
 Taliban being the major contributor captures most of the middle eastern countries.
 
-![alt tag](https://github.com/krutikad15/deshpande_krutika_001280718_FinalExam_Spring2017/blob/master/Final/Extras/5thAnalysis.PNG)
+![alt tag](https://github.com/krutikad15/deshpande_krutika_001280718_FinalExam_Spring2017/blob/master/Final/Extras/5th%20Analysis.PNG)
 
 
 # Conclusion:
