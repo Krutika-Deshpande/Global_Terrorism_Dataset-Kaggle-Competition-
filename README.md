@@ -1,8 +1,8 @@
 # deshpande_krutika_001280718_FinalExam_Spring2017
 
-##Global Terrorism Data Analysis
+## Global Terrorism Data Analysis
 
-#About the dataset
+# About the dataset
 The dataset contains information about the terrorist attacks in the world.
 It has information of the day, month and year of the terrorist attack in a particular city in a state of a country under a region.
 The dataset has information of the type of weapons used, the target of the terrorist attacks, the terror groups involved in the
