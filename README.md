@@ -1,6 +1,6 @@
-# deshpande_krutika_001280718_FinalExam_Spring2017
 
-## Global Terrorism Data Analysis
+
+# Exploratory Anlaysis on Global Terrorism Dataset from Kaggle
 
 # About the dataset:
 The dataset contains information about the terrorist attacks in the world.
